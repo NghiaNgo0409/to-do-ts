@@ -1,7 +1,9 @@
+import ToDoPage from './pages/ToDoPage'
+
 function App() {
   return (
     <>
-      <div>Hello World</div>
+      <ToDoPage />
     </>
   )
 }
